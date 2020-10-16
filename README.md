@@ -1,5 +1,6 @@
 CFI – Complaints App
-This is a mobile app built using Flutter framework that records special complaints and services needed regarding waste disposal. This app is a project under Center For Innovation (CFI), IITM. 
+
+   This is a mobile app built using Flutter framework that records special complaints and services needed regarding waste disposal. This app is a project under Center For Innovation (CFI), IITM. 
 
 Intuition behind the App:
 
@@ -17,6 +18,6 @@ Functioning –
 
 •	Finally the registered complaint will be shown on the home screen for the user and the same will be sent to the organizations for the necessary action. 
 
-This is an effective app that is highly needed in public areas like college institutions where there are more people as informing the staff responsible for cleaning becomes a big process. This app is will currently be used by the students and the residents of IITM and later will be available to residents outside IITM. 
+   This is an effective app that is highly needed in public areas like college institutions where there are more people as informing the staff responsible for cleaning becomes a big process. This app is will currently be used by the students and the residents of IITM and later will be available to residents outside IITM. 
 
-This uploaded dart code is the prototype of the app. Updates for the app are going to be uploaded here. 
+   This uploaded dart code is the prototype of the app. Updates for the app are going to be uploaded here. 
