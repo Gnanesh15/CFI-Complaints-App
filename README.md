@@ -1,8 +1,7 @@
-CFI – Complaints App
 
    This is a mobile app built using Flutter framework that records special complaints and services needed regarding waste disposal. This app is a project under Center For Innovation (CFI), IITM. 
 
-Intuition behind the App:
+Intuition behind the App - 
 
 •	From the recent years there has been a huge need for the sustainability of our environment. One of the biggest challenges that our country is facing is regarding disposal of all sorts of waste materials, both bio-degradable and non-bio degradable.
 
